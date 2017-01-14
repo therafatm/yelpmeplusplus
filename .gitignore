@@ -1,0 +1,9 @@
+gnore jsons
+*.json
+
+#ignore pickles
+*.pickle
+*.p
+
+#ignore text files
+*.txt
